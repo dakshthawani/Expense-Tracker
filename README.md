@@ -37,10 +37,10 @@ To get started with the Expense Tracker, follow these simple steps:
 ## Usage
 
 Once the setup is complete, you can launch the application by running:
-
     ```bash
     python main.py
     ```
+
 
 ## Configuration
 
@@ -58,6 +58,3 @@ If you'd like to contribute to this project and help improve it, please fork the
 
 This project is licensed under the MIT License. See the `LICENSE` file for details regarding the terms and conditions of use.
 
-This section would provide a brief explanation of the main components of the code, such as the `main.py` file, the `Functions` module, and individual functions for adding, updating, deleting, and viewing expenses. 
-
-Remember to update the explanations based on the actual code structure of your project.
