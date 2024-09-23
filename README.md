@@ -38,8 +38,9 @@ To get started with the Expense Tracker, follow these simple steps:
 
 Once the setup is complete, you can launch the application by running:
 
-```bash
-python main.py
+    ```bash
+    python main.py
+    ```
 
 ## Configuration
 
